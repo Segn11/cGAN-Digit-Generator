@@ -1,4 +1,4 @@
-# GAN Web App
+                      # GAN Web App
 
 A full-stack AI image generation application powered by a PyTorch Conditional GAN (CGAN). The system generates `28x28` handwritten digits conditioned on labels `0-9`, served via Flask and consumed by a React + Tailwind frontend.
 
