@@ -12,7 +12,7 @@ A full-stack AI image generation application powered by a PyTorch Conditional GA
 - Clean, responsive React UI with loading states and multi-variation output
 - Built-in retraining script for checkpoint improvement
 
- ## Tech Stack
+## Tech Stack
 
 - **Backend:** Flask, PyTorch, NumPy, Pillow
 - **Frontend:** React, Vite, Tailwind CSS
